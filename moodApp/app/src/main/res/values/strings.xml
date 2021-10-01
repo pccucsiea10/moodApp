@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">mood App</string>
+    <string name="app">情緒辨識實驗APP</string>
+    <string name="start">開始</string>
+    <string name="close">結束</string>
+    <string name="test">測試項目</string>
+    <string name="regular">原始心率</string>
+    <string name="normal">正常心率</string>
+    <string name="happy">開心心率</string>
+    <string name="sad">難過心率</string>
+    <string name="sex">性別</string>
+    <string name="age">年齡</string>
+    <string name="name">姓名</string>
+    <string name="BasicData">基本資料</string>
+
+
+</resources>
